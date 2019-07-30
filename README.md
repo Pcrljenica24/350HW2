@@ -1,2 +1,2 @@
-# 350HW2
+# Python Selection Sort
 Selection Sort is here and things are going absolutely wonderfully. 
